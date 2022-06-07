@@ -2,5 +2,5 @@
 
 Sprawdź :point_right: https://norbertzybala.github.io/decision-maker/ 
 
-Decision-maker to aplikacja wykorzystująca [API](https://yesno.wtf/#api), dzięki której możemy uzyskać odpowiedź na nasze pytania w formie TAK lub NIE.
+Decision-maker is an [API](https://yesno.wtf/#api)-based application with which we can get answer yes or no.
 
